@@ -48,6 +48,16 @@ This is a software engineering team generator command line application</p>
 ## Usage:
 ### This application allows a user to generate an HTML webpage that displays summaries for each individual member on the team.
 
+## Technologies:
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascript</li>
+<li>Bootstrap</li>
+<li>Github</li>
+</ul>
+
+
 ## License:
 ### [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
     
