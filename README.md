@@ -31,8 +31,8 @@ This is a software engineering team generator command line application</p>
 ![Screenshot of Application](img/Capture.PNG)
 <h3> Testing Screenshots </h3>
 
-![Screenshot of Application](img/2020-08-19(2).PNG)
-![Screenshot of Application](img/2020-08-19(3).PNG)
+![Screenshot of Application](img/2020-08-19(2).png)
+![Screenshot of Application](img/2020-08-19(3).png)
 
 ## Description:
 ### Command line application to build a profile of a software engineering team.
