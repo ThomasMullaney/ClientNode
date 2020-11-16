@@ -16,12 +16,8 @@ This is a software engineering team generator command line application</p>
     <a href="https://github.com/ThomasMullaney/team-profile-builder">
       Github Repository
     </a>
-<span> | </span>
-<a href="https://thomasmullaney.github.io/team-profile-builder/.">
-      Github Pages
-    </a>
     <span> | </span>
-<a href="https://thomasmullaney.github.io/team-profile-builder/.">
+<a href="https://drive.google.com/file/d/1f7p8tREe6L0jg3uhd76Qd-3nFaRpJmGU/view">
       Video Walkthrough
     </a>
   </h4>
