@@ -26,11 +26,11 @@ This is a software engineering team generator command line application</p>
     </a>
   </h4>
 </div>
-
 <h3> Generated HTML Page Screenshot </h3>
-![Screenshot of Application](img/Capture.PNG)
 
+![Screenshot of Application](img/Capture.PNG)
 <h3> Testing Screenshots </h3>
+
 ![Screenshot of Application](img/2020-08-19(2).PNG)
 ![Screenshot of Application](img/2020-08-19(3).PNG)
 
