@@ -52,9 +52,11 @@ This is a software engineering team generator command line application</p>
 <ul>
 <li>HTML</li>
 <li>CSS</li>
-<li>Javascript</li>
+<li>Javascript, jQuery, JSON</li>
 <li>Bootstrap</li>
 <li>Github</li>
+<li>Node.js</li>
+<li>Jest</li>
 </ul>
 
 
